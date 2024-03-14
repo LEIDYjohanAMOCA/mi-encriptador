@@ -1,0 +1,41 @@
+*{
+    background-color:azure;
+    font-size: 20px;
+}
+
+main{
+    display: flex;
+    margin: 5px;
+
+    justify-content: space-between;
+
+    width: 95vw;
+}
+
+textarea{
+    color: blueviolet;
+    font-family: cursive;
+}
+.botones{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.botones, button{
+    color:purple;
+    font-family: cursive;
+    
+}
+
+h1{
+    color: purple;
+    font-family: cursive;
+}
+p{
+    color: aqua;
+    font-family: cursive;
+}
